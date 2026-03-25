@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\User\Desktop\00_Root\03_Dev\01_Visual Studio\nbcamp_ch2_assignments4\Project\Main.cpp(13,22): warning C4566: character represented by universal-character-name '\u2697' cannot be represented in the current code page (949)
+C:\Users\User\Desktop\00_Root\03_Dev\01_Visual Studio\nbcamp_ch2_assignments4\Project\Main.cpp(13,22): warning C4566: character represented by universal-character-name '\uFE0F' cannot be represented in the current code page (949)
+  Project.vcxproj -> C:\Users\User\Desktop\00_Root\03_Dev\01_Visual Studio\nbcamp_ch2_assignments4\x64\Debug\Project.exe
